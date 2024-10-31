@@ -2,12 +2,12 @@
 
 ## Fundamentals
 
-1. Linear Search
-2. Largest Element
-3. Second Largest Element
-4. Maximum Consecutive Ones
-5. Left Rotate Array by One
-6. Left Rotate Array by K Places
+1. Linear Search Done
+2. Largest Element Done
+3. Second Largest Element Done
+4. Maximum Consecutive Ones Done
+5. Left Rotate Array by One Done
+6. Left Rotate Array by K Places Done
 
 ## Logic Building
 
